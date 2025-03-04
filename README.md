@@ -40,7 +40,6 @@ I love time traveling—well, at least coding projects that simulate it!
  📫 How to reach me:
 - Email: [vidithkishan.1si22ci056@gmail.com](mailto:vidithkishan.1si22ci056@gmail.com)
 - [LinkedIn](http://www.linkedin.com/in/vidithkishanks)
-- [GitHub](https://github.com/Vidithkishan)
 
 
 
