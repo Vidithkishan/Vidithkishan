@@ -1,4 +1,4 @@
-- Hi, I'm Vidith Kishan 👋
+- Hi, I'm Vidithkishan 👋
 
  👀 I'm interested in:
 - Artificial Intelligence & Machine Learning (AI/ML)
