@@ -34,8 +34,7 @@
 
 ## 💪 Skills
 - **Languages:** Java, C, Python (Basic)  
-- **Web Technologies:** HTML, CSS, Spring Boot  
-- **DevOps Tools:** Git, GitHub, Docker, Jenkins (learning)  
+- **Web Technologies:** HTML, CSS, Spring Boot   
 - **Databases:** MySQL, MongoDB  
 - **Soft Skills:** Leadership, Communication  
 
