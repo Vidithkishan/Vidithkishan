@@ -32,7 +32,7 @@
  🎓 Education:
 - Bachelor of Engineering in Computer Science (AI & ML) 
   Siddaganga Institute of Technology (2022 – 2026)  
-  *CGPA*: 8.99  
+  *CGPA*: 8.7  
 
  ⚡ Fun fact:
 I love time traveling—well, at least coding projects that simulate it! 
