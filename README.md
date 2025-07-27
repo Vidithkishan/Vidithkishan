@@ -1,45 +1,64 @@
-- Hi, I'm Vidithkishan 👋
+# 👋 Hi, I'm **Vidithkishan K S**
 
- 👀 I'm interested in:
-- Artificial Intelligence & Machine Learning (AI/ML)
-- Full-stack Web Development
-- Software Engineering
+🎯 **Aspiring Software Engineer | Full-Stack Developer**
 
- 🌱 I’m currently learning:
-- Advanced Java Programming
-- Spring Boot & Maven for secure web applications
-- Data Structures, Operating Systems, and Database Management Systems
+---
 
- 💼 Projects:
-- E-commerce Platform with Secure Payments
-  Technologies: Java, Spring Boot, Maven, MySQL, JWT  
-  Developed a secure e-commerce platform featuring user authentication, product catalog, cart functionality, and API-driven payment processing. Implemented real-time order tracking with efficient updates and seamless database integration.
+## 👀 Interests
+- ⚙️ Cloud Infrastructure & Deployment  
+- 💻 Full-Stack Development with Spring Boot  
+- 🧠 Artificial Intelligence & Machine Learning  
 
-- Hotel Booking Database Management System  
-  Technologies: MySQL  
-  Designed a robust backend for hotel reservations, guest management, and room availability, optimizing data storage and retrieval for transactional integrity.
+---
 
- 💪 Skills:
-- Web: HTML, CSS, Spring Boot
-- Programming: C, Java, Python (Basic)
-- Databases: MySQL, MongoDB
-- Other: Leadership, Communication
+## 🌱 Currently Learning
+- 🐳 Docker, Kubernetes & CI/CD Pipelines  
+- ☁️ AWS & Cloud Native Development  
+- 🧪 Testing & Deployment Automation  
 
- 💼 Positions Held:
-- Joint Treasurer, IEEE SIT SB (Sept 2024 – Current)  
-  Actively managing and overseeing all managerial activities, including budgeting for national-level events.
+---
 
- 🎓 Education:
-- Bachelor of Engineering in Computer Science (AI & ML) 
-  Siddaganga Institute of Technology (2022 – 2026)  
-  *CGPA*: 8.7  
+## 💼 Projects
 
- ⚡ Fun fact:
-I love time traveling—well, at least coding projects that simulate it! 
+### 🔐 E-commerce Platform with Secure Payments  
+**Tech Stack:** Java, Spring Boot, Maven, MySQL, JWT  
+- Built end-to-end e-commerce app with user login, product catalog, and cart system  
+- Implemented secure authentication and real-time order handling  
 
- 📫 How to reach me:
-- Email: [vidithkishan.1si22ci056@gmail.com](mailto:vidithkishan.1si22ci056@gmail.com)
-- [LinkedIn](http://www.linkedin.com/in/vidithkishanks)
+### 🏨 Hotel Booking Database Management System  
+**Tech Stack:** MySQL  
+- Designed relational database to manage guests, reservations, and room availability  
+- Enhanced performance with optimized SQL queries  
 
+---
 
+## 💪 Skills
+- **Languages:** Java, C, Python (Basic)  
+- **Web Technologies:** HTML, CSS, Spring Boot  
+- **DevOps Tools:** Git, GitHub, Docker, Jenkins (learning)  
+- **Databases:** MySQL, MongoDB  
+- **Soft Skills:** Leadership, Communication  
 
+---
+
+## 🏅 Leadership
+**Joint Treasurer – IEEE SIT SB** *(Sept 2024 – Present)*  
+- Organized and managed budgets for national-level technical events and workshops  
+
+---
+
+## 🎓 Education
+**Bachelor of Engineering – CSE (AI & ML)**  
+Siddaganga Institute of Technology, Tumakuru *(2022 – 2026)*  
+📊 *CGPA:* **8.7**
+
+---
+
+## 📬 Connect With Me
+- 📧 Email: [vidithkishan.1si22ci056@gmail.com](mailto:vidithkishan.1si22ci056@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vidithkishanks)
+
+---
+
+## ⚡ Fun Fact  
+I automate stuff just to make life *less boring and more efficient*. 😉
